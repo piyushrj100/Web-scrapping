@@ -47,13 +47,18 @@ def find_jobs() :
     #writing to the json file created.
     with open(f'post/file_{timestamp}.json','w') as f :
         json.dump(description,f, indent = 4, sort_keys=True)
+    print(f'Saved to File : post/file_{timestamp}.json' )
+    print('Clearing dictionary')
+    description.clear()
+    print()
                 
 
 if __name__ == '__main__' :
     while True :
         find_jobs()
-        time_wait = 10
+        time_wait = 60
         print(f'Waiting {time_wait} minutes...')
         time.sleep(time_wait*60)
+        print("Resuming....")
 
  
