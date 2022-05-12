@@ -3,6 +3,7 @@ import requests
 import time
 import json
 from os.path import exists
+from os import mkdir
 
 def append_json(job_info, timestamp,technology) :
     with open(f'post/{technology}_job_{timestamp}.json', 'r+') as json_file :
@@ -12,6 +13,8 @@ def append_json(job_info, timestamp,technology) :
         json.dump(json_data, json_file, indent = 4, sort_keys = True)
 
 def add_first_json(job_info,timestamp,technology) :
+    if exists('post') is False:
+        mkdir('post')
     description_list = { "job_description" : [] }
     description_list["job_description"].append(job_info)
     with open(f'post/{technology}_job_{timestamp}.json','w')  as json_file:
@@ -20,7 +23,7 @@ def add_first_json(job_info,timestamp,technology) :
 
 def find_jobs(technology,location_,pages, unfamiliar_skill="NULL") :
     #checking  if page size is <=12 . If it is > 12, A value error exception will be thrown.
-    if pages <=12 :
+    if (pages <=12) and (pages > 0) :
         print(f'Valid! Page size is less than equal to 12! Proceeding ahead...\n')        
     else :
         raise ValueError('Page size should be less than equal to 12!! Please try again...')
@@ -73,7 +76,7 @@ def find_jobs(technology,location_,pages, unfamiliar_skill="NULL") :
             time.sleep(10)
     
 if __name__ == '__main__' :
-    pages= 8
+    pages= 8 
     technology= 'Python'
     location= 'India'
     find_jobs(technology,location,pages)
