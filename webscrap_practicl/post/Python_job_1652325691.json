@@ -329,30 +329,6 @@
             "Publishing Date": "Posted 6 days ago"
         },
         {
-            "Company Name": "AxisTechnolabs",
-            "Experience Required": "0 - 1 yrs",
-            "Key Skills": "python,django,itskills,html5,api,jquery",
-            "Location": "Ahmedabad",
-            "More Info": "https://www.timesjobs.com/job-detail/python-odoo-axistechnolabs-ahmedabad-0-to-1-yrs-jobid-HzL8naalyxFzpSvf__PLUS__uAgZw==&source=srp",
-            "Publishing Date": "Posted 6 days ago"
-        },
-        {
-            "Company Name": "tataatsuidealabspvt.ltd.",
-            "Experience Required": "1 - 3 yrs",
-            "Key Skills": "oop,python,linux,teamplayer,mongodb,sql",
-            "Location": "Bengaluru / Bangalore",
-            "More Info": "https://www.timesjobs.com/job-detail/python-developer-tataatsu-idealabs-pvt-ltd-bengaluru-bangalore-1-to-3-yrs-jobid-8DvwCGHFKxhzpSvf__PLUS__uAgZw==&source=srp",
-            "Publishing Date": "Posted 6 days ago"
-        },
-        {
-            "Company Name": "pearlglobalsolutions",
-            "Experience Required": "4 - 7 yrs",
-            "Key Skills": "python,database,django,teamplayer,sql",
-            "Location": "Cochin/ Kochi/ Ernakulam",
-            "More Info": "https://www.timesjobs.com/job-detail/python-developer-pearl-global-solutions-cochin-kochi-ernakulam-4-to-7-yrs-jobid-dZD__SLASH__NDlCjpVzpSvf__PLUS__uAgZw==&source=srp",
-            "Publishing Date": "Posted 6 days ago"
-        },
-        {
             "Company Name": "creativethoughtsinformaticsindore",
             "Experience Required": "1 - 4 yrs",
             "Key Skills": "python,django,restapi,html5,javascript",
@@ -385,22 +361,6 @@
             "Publishing Date": "Posted 6 days ago"
         },
         {
-            "Company Name": "TandAHRSolutions",
-            "Experience Required": "4 - 5 yrs",
-            "Key Skills": "pythonprogramming,RobotFramework,DeviceAutomationAppium",
-            "Location": "Gurgaon",
-            "More Info": "https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-5-yrs-jobid-hfo6__SLASH__sfO5lBzpSvf__PLUS__uAgZw==&source=srp",
-            "Publishing Date": "Posted 6 days ago"
-        },
-        {
-            "Company Name": "SpliceGlobalServicesPvtLtd",
-            "Experience Required": "2 - 5 yrs",
-            "Key Skills": "python,django,git,postgresql,oops,linux,mysql",
-            "Location": "Gurgaon",
-            "More Info": "https://www.timesjobs.com/job-detail/python-developer-splice-global-services-pvt-ltd-gurgaon-2-to-5-yrs-jobid-Jnds36iU0vVzpSvf__PLUS__uAgZw==&source=srp",
-            "Publishing Date": "Posted 6 days ago"
-        },
-        {
             "Company Name": "InnvonixTechnologies",
             "Experience Required": "0 - 3 yrs",
             "Key Skills": "python,security,django,html5,angularjs,javascript",
@@ -423,6 +383,46 @@
             "Location": "Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad",
             "More Info": "https://www.timesjobs.com/job-detail/python-developer-electrobrain-modern-technologies-pvt-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-1-to-4-yrs-jobid-__PLUS__dKh4zv7xL5zpSvf__PLUS__uAgZw==&source=srp",
             "Publishing Date": "Posted 1 day ago"
+        },
+        {
+            "Company Name": "AxisTechnolabs",
+            "Experience Required": "0 - 1 yrs",
+            "Key Skills": "python,django,itskills,html5,api,jquery",
+            "Location": "Ahmedabad",
+            "More Info": "https://www.timesjobs.com/job-detail/python-odoo-axistechnolabs-ahmedabad-0-to-1-yrs-jobid-HzL8naalyxFzpSvf__PLUS__uAgZw==&source=srp",
+            "Publishing Date": "Posted 6 days ago"
+        },
+        {
+            "Company Name": "tataatsuidealabspvt.ltd.",
+            "Experience Required": "1 - 3 yrs",
+            "Key Skills": "oop,python,linux,teamplayer,mongodb,sql",
+            "Location": "Bengaluru / Bangalore",
+            "More Info": "https://www.timesjobs.com/job-detail/python-developer-tataatsu-idealabs-pvt-ltd-bengaluru-bangalore-1-to-3-yrs-jobid-8DvwCGHFKxhzpSvf__PLUS__uAgZw==&source=srp",
+            "Publishing Date": "Posted 6 days ago"
+        },
+        {
+            "Company Name": "pearlglobalsolutions",
+            "Experience Required": "4 - 7 yrs",
+            "Key Skills": "python,database,django,teamplayer,sql",
+            "Location": "Cochin/ Kochi/ Ernakulam",
+            "More Info": "https://www.timesjobs.com/job-detail/python-developer-pearl-global-solutions-cochin-kochi-ernakulam-4-to-7-yrs-jobid-dZD__SLASH__NDlCjpVzpSvf__PLUS__uAgZw==&source=srp",
+            "Publishing Date": "Posted 6 days ago"
+        },
+        {
+            "Company Name": "TandAHRSolutions",
+            "Experience Required": "4 - 5 yrs",
+            "Key Skills": "pythonprogramming,RobotFramework,DeviceAutomationAppium",
+            "Location": "Gurgaon",
+            "More Info": "https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-5-yrs-jobid-hfo6__SLASH__sfO5lBzpSvf__PLUS__uAgZw==&source=srp",
+            "Publishing Date": "Posted 6 days ago"
+        },
+        {
+            "Company Name": "SpliceGlobalServicesPvtLtd",
+            "Experience Required": "2 - 5 yrs",
+            "Key Skills": "python,django,git,postgresql,oops,linux,mysql",
+            "Location": "Gurgaon",
+            "More Info": "https://www.timesjobs.com/job-detail/python-developer-splice-global-services-pvt-ltd-gurgaon-2-to-5-yrs-jobid-Jnds36iU0vVzpSvf__PLUS__uAgZw==&source=srp",
+            "Publishing Date": "Posted 6 days ago"
         },
         {
             "Company Name": "destinyhrgroupservices",
@@ -905,20 +905,20 @@
             "Publishing Date": "Posted 6 days ago"
         },
         {
-            "Company Name": "KTreecomputersolutions",
-            "Experience Required": "1 - 4 yrs",
-            "Key Skills": "css,sql,git,xml,mysql,html,rest,python,perlscripting,mobile,openerp,django,unix/linux,soap",
-            "Location": "Hyderabad/Secunderabad",
-            "More Info": "https://www.timesjobs.com/job-detail/python-developer-k-tree-computer-solutions-hyderabad-secunderabad-1-to-4-yrs-jobid-JE1rJGz6RU1zpSvf__PLUS__uAgZw==&source=srp",
-            "Publishing Date": "Posted 6 days ago"
-        },
-        {
             "Company Name": "emishealthindiapvtltd",
             "Experience Required": "5 - 8 yrs",
             "Key Skills": "python,softwaredesign,problemsolving,oop,database,writtencommunication,ooad,.net,api",
             "Location": "Chennai",
             "More Info": "https://www.timesjobs.com/job-detail/sde-python-emis-health-india-pvt-ltd-chennai-5-to-8-yrs-jobid-aiPH3VEmP69zpSvf__PLUS__uAgZw==&source=srp",
             "Publishing Date": "Posted 4 days ago"
+        },
+        {
+            "Company Name": "KTreecomputersolutions",
+            "Experience Required": "1 - 4 yrs",
+            "Key Skills": "css,sql,git,xml,mysql,html,rest,python,perlscripting,mobile,openerp,django,unix/linux,soap",
+            "Location": "Hyderabad/Secunderabad",
+            "More Info": "https://www.timesjobs.com/job-detail/python-developer-k-tree-computer-solutions-hyderabad-secunderabad-1-to-4-yrs-jobid-JE1rJGz6RU1zpSvf__PLUS__uAgZw==&source=srp",
+            "Publishing Date": "Posted 6 days ago"
         },
         {
             "Company Name": "InSemiTechnologyServices",

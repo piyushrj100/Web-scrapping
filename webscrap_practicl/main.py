@@ -69,11 +69,14 @@ def find_jobs(technology,location_,pages, unfamiliar_skill="NULL") :
                         append_json(job_info,timestamp,technology)
                     else : 
                         add_first_json(job_info,timestamp,technology)
+        print(f'Page {page_num} saved to file!!')
 
         if page_num != pages :
-            print('Waiting for 10 seconds before moving to next page.....')
+            print(f'Waiting for 10 seconds before moving to next page.....')
             print()
             time.sleep(10)
+    
+    print(f'+++Completed++++ All pages have been parsed.Data  saved to  file post/{technology}_job_{timestamp}.json ....')
     
 if __name__ == '__main__' :
     pages= 8 
